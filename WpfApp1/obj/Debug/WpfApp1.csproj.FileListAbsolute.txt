@@ -1,0 +1,140 @@
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\bmı.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\SecondWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\bmı.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\SecondWindow.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\FirstWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\FirstWindow.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\Fourth.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\Fourth.baml
+C:\Users\EGEMEN\Desktop\312\lab_work_1_denemeler\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.baml
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.baml
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\EGEMEN\Desktop\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\bmı.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\FirstWindow.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\Fourth.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\SecondWindow.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\ThirdWindow.baml
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Belgelerim\2017-2018 derslerim\3\312\Egemen_Sener_HW1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\bmı.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\FirstWindow.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\Fourth.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\SecondWindow.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\ThirdWindow.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\bmı.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\FirstWindow.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\Fourth.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\SecondWindow.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\ThirdWindow.baml
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Egemen\source\repos\312firsthomework\WpfApp1\obj\Debug\WpfApp1.pdb
